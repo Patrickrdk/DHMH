@@ -1,0 +1,14 @@
+RewriteEngine On
+RewriteRule ^sog$ search.php
+RewriteRule ^sog/$ search.php
+RewriteRule ^søg$ search.php
+RewriteRule ^søg/$ search.php
+
+RewriteRule ^hvordan$ howitworks.php
+RewriteRule ^hvordan/$ howitworks.php
+
+RewriteRule ^hundepasser$ becomeadogsitter.php
+RewriteRule ^hundepasser/$ becomeadogsitter.php
+
+RewriteRule ^om$ about.php
+RewriteRule ^om/$ about.php
